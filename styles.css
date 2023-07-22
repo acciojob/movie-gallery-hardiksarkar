@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+body>div>div{
+    display: flex;
+    margin-top: 10px;
+    justify-content: space-around;
+}
+body>div>div>img{
+    width: 8%;
+}
